@@ -1,5 +1,5 @@
 {
-  "name": "libp2p-mplex",
+  "name": "libp2p-mplex-curltech",
   "version": "0.10.3",
   "description": "JavaScript implementation of https://github.com/libp2p/mplex",
   "leadMaintainer": "Vasco Santos <vasco.santos@moxy.studio>",

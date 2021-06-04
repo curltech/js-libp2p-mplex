@@ -1,6 +1,6 @@
 'use strict'
 
-const MAX_MSG_SIZE = 1 << 20 // 1MB
+const MAX_MSG_SIZE = 1 << 30 // 1GB
 
 /**
  * Creates an iterable transform that restricts message sizes to
